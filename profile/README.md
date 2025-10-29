@@ -12,4 +12,6 @@ I am currently building a complete microservices ecosystem from scratch. The goa
 
 - **📚 [book-catalog](https://github.com/DanLearnings/book-catalog):** (SOON) The project's main entrypoint, containing all architectural documentation.
 
+## 💼 [ecommerce-ecosystem](https://github.com/DanLearnings/ecommerce-ecosystem) 
+
 Feel free to explore, open issues, or reach out to exchange ideas!
