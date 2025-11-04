@@ -42,14 +42,6 @@ A production-grade e-commerce platform showcasing the complete lifecycle of dist
 ### 🏛️ **Main Repository:**
 - **[ecommerce-ecosystem](https://github.com/DanLearnings/ecommerce-ecosystem):** The architectural hub and main entrypoint for the entire distributed system.
 
-### 🛠️ **Microservices:**
-- **[ecommerce-service-registry](https://github.com/DanLearnings/ecommerce-service-registry):** Eureka Server for service discovery
-- **[ecommerce-config-server](https://github.com/DanLearnings/ecommerce-config-server):** Centralized configuration management
-- **[ecommerce-api-gateway](https://github.com/DanLearnings/ecommerce-api-gateway):** API Gateway with dynamic routing
-- **[ecommerce-inventory-service](https://github.com/DanLearnings/ecommerce-inventory-service):** Product catalog and inventory management
-- **[ecommerce-notification-service](https://github.com/DanLearnings/ecommerce-notification-service):** Email notifications with RabbitMQ integration
-- **[ecommerce-config-repo](https://github.com/DanLearnings/ecommerce-config-repo):** Git-backed configuration repository
-
 ### 🎯 **What This Project Demonstrates:**
 
 ✅ **Microservices Architecture** - Independent, scalable services  
